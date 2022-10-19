@@ -29,8 +29,10 @@ My current research interest lies on **computational photography** and **compute
 
 # Education
 
-B.Sc. (Summa Cum Laude) in Intelligence Science and Technology @ Peking University, 2018 - 2022
+- B.Sc. (Summa Cum Laude) in Intelligence Science and Technology @ Peking University
+  * 2018 - 2022
 
-Ph.D. student in Computer Applied Technology @ Peking University, 2022 - present
+- Ph.D. student in Computer Applied Technology @ Peking University
+  * 2022 - present
 
 
