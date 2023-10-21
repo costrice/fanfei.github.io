@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Fan Fei  # the website title (if blank, full name will be used instead)
+title: blank  # the website title (if blank, full name will be used instead)
 first_name: Fan
 middle_name:
 last_name: Fei
@@ -178,7 +178,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
