@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fanfei.github.io/sitemap.xml
+Sitemap: https://costrice.github.io/sitemap.xml
