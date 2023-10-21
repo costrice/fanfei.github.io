@@ -6,7 +6,7 @@ subtitle: <a href="https://camera.pku.edu.cn/">Camera Intelligence</a> at Peking
 
 profile:
   align: right
-  image: DSC_0324.JPG
+  image: feifan_avatar.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>523, CS Building</p>
